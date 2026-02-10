@@ -1,3 +1,5 @@
+Buy me a coffee : https://paypal.me/m3lvin94 
+
 # ChangeWeather
 GTA V FiveM Standalone Script to change the weather
 
